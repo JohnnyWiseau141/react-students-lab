@@ -7,6 +7,9 @@ const Student = (props) => {
       <p>
         {props.student.name}
       </p>
+      <p>
+        {props.student.bio}
+      </p>
     </div>
     <div>
       
